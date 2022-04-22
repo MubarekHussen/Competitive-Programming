@@ -4,7 +4,7 @@ public class Domino
     public static void main(String[] args)
     {
         Scanner scan = new Scanner(System.in);
-        int M, N, out;
+        int M, N, out = 0;
         
         
         M = scan.nextInt();
