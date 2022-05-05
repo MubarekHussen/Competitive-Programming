@@ -10,7 +10,7 @@ public class TheatreSquare {
         m = scan.nextDouble();
         a = scan.nextDouble();
         
-        System.out.println((int)(Math.ceil(n/a) * Math.ceil(m/a)));
+        System.out.println((long)(Math.ceil(n/a) * Math.ceil(m/a)));
         
     }
 }
